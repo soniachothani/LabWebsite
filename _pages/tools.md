@@ -28,7 +28,6 @@ permalink: /tools/
       </a>
     </div>
   </div>
-</div>
 
   <div class="tool-block">
     <h3>Translation signature scores</h3>

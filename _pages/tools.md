@@ -30,7 +30,18 @@ permalink: /tools/
   </div>
 </div>
 
-
+  <div class="tool-block">
+    <h3>Translation signature scores</h3>
+    <div class="image-hover-container">
+      <a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(22)00606-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276522006062%3Fshowall%3Dtrue">
+        <img src="{{ '/assets/images/cover.tif' | relative_url }}" alt="TSS tool image">
+        <div class="hover-text">
+          Translation signature scores - Evaluating evidence of translation using Ribo-seq.
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 
 
 

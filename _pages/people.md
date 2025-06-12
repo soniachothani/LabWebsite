@@ -4,7 +4,6 @@ title: "People"
 permalink: /people/
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
     src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
     alt="Dr. Sonia Chothani" 
@@ -19,7 +18,6 @@ permalink: /people/
     M.S. Computational Biology, Carnegie Mellon University, Pittsburgh, USA<br>
     PhD., Integrated Biology and Medicine, Duke-NUS medical school, Singapore<br>
   </div>
-</div>
 
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">

@@ -94,7 +94,6 @@ body.landing {
   .full-page-layout {
     @extend .page-section;
     display: flex;
-    padding-bottom: 50px;
     min-height: 100vh; /* changed from fixed */
     scroll-snap-align: start;
    
@@ -126,8 +125,6 @@ body.landing {
 
   .main-content {
     flex: 1;
-    padding-top: 60px;
-    padding-bottom: 60px;
     padding: 4rem;
     display: flex;
     flex-direction: column;

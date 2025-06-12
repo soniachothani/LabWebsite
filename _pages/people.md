@@ -22,7 +22,7 @@ permalink: /people/
     PhD., Integrated Biology and Medicine, Duke-NUS medical school, Singapore<br>
     </div>
   </div>
-</div>
+  </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
@@ -32,7 +32,6 @@ permalink: /people/
   <div>
     <strong>Ms. Devika Menon</strong> – Research Officer (Computational Biologist)
   </div>
-</div>
 </div>
 
 ### Alumni

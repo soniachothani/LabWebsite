@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-classes: wide publications-page
+classes: wide publications-page landing
 permalink: /publications/
 ---
 <div class="sidebar-image">

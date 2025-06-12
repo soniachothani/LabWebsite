@@ -17,7 +17,8 @@
   }
 
 body.publications-page .page__content {
-  max-width: none;
-  margin: 0;
-  padding: 0 20px;
+  max-width: none !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }

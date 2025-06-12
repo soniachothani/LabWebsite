@@ -11,9 +11,9 @@ permalink: /research/
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
-      <h1>**Translation dysregulation in disease**</h1>
+      <h1>Translation dysregulation in disease</h1>
       <p>...</p>
-       <h1>**Discovering unannotated open reading frames**</h1>
+       <h1>Discovering unannotated open reading frames</h1>
       Placeholder text
     </div>
 </section>

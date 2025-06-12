@@ -4,7 +4,10 @@ title: "Publications"
 classes: wide publications-page
 permalink: /publications/
 ---
-
+<div class="sidebar-image">
+      <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
+</div>
+<div class="main-content">
 Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> for the full list of publications. 
 
 Selected publications here:
@@ -32,3 +35,4 @@ Selected publications here:
   Chothani, S., Schäfer, S., Adami, E., Viswanathan, S., Widjaja, A. A., Langley, S. R., ... & Rackham, O. J. (2019). Widespread translational control of fibrosis in the human heart by RNA-binding proteins. Circulation, 140(11), 937-951.
 </a>
 
+</div>

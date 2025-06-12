@@ -7,17 +7,17 @@ permalink: /publications/
 
 <div class="full-page-layout">
       <section class="page-section full-page-layout fade-in">
-      <div class="sidebar-image">
+        <div class="sidebar-image">
             <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
-      </div>
-      <div class="main-content">
-      Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google          Scholar</a> for the full list of publications. 
+        </div>
+        <div class="main-content">
+        Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google          Scholar</a> for the full list of publications. 
 
-      Selected publications here:
+        Selected publications here:
 
-      <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2279845" class="text-link">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2279845" class="text-link">
         Chothani, S., Ho, L., Schafer, S., & Rackham, O. (2023). Discovering microproteins: making the most of ribosome profiling data. RNA biology, 20(1), 943-954.
-      </a>
+        </a>
       
       
       <a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(22)00606-2?uuid=uuid%3Ad64a17c6-406a-4124-96ed-d6ebc23c1cee" class="text-link">
@@ -38,6 +38,6 @@ permalink: /publications/
         Chothani, S., Schäfer, S., Adami, E., Viswanathan, S., Widjaja, A. A., Langley, S. R., ... & Rackham, O. J. (2019). Widespread translational control of fibrosis in the human heart by RNA-binding proteins. Circulation, 140(11), 937-951.
       </a>
 
-      </div>
+       </div>
       </section>
 </div>

@@ -42,7 +42,9 @@ permalink: /publications/
                 Chothani, S., Schäfer, S., Adami, E., Viswanathan, S., Widjaja, A. A., Langley, S. R., ... & Rackham, O. J. (2019). Widespread translational control of fibrosis in the human heart by RNA-binding proteins. Circulation, 140(11), 937-951.
         </a>
 
-      
+      <br>
+      <br>
+      <br>
     </div>
 </section>
 

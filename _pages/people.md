@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "People"
-classes: wide 
 permalink: /people/
 ---
 

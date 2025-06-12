@@ -16,9 +16,9 @@ permalink: /publications/
         <br>
         <br>
         <br>
-        
+        <p>
         Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> for the full list of publications. Selected publications here:
-        
+        </p>
         <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2279845" class="text-link">
                 Chothani, S., Ho, L., Schafer, S., & Rackham, O. (2023). Discovering microproteins: making the most of ribosome profiling data. RNA biology, 20(1), 943-954.
         </a>

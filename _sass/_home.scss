@@ -9,6 +9,7 @@ html, body {
 
 /* Apply scroll snapping ONLY on landing page */
 body.landing {
+    padding-top: 60px;
     min-height: 100vh;
     overflow-y: auto;   /* ✅ allows vertical scroll */
     overflow-x: hidden;

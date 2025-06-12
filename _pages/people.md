@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+<div style="max-width: none; margin: 0 auto; padding: 0 0px;">
   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
     src="{{ '/assets/images/Sonia.webp' | relative_url }}" 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full
 title: "Publications"
 classes: publications-page wide
 permalink: /publications/

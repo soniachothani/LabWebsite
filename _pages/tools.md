@@ -7,6 +7,9 @@ permalink: /tools/
 
 
 <section class="page-section full-page-layout fade-in">
+    <br>
+    <br>
+    <br>
     <div class="sidebar-image">
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>

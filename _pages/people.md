@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-  <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
     src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
     alt="Dr. Sonia Chothani" 
@@ -21,7 +21,7 @@ permalink: /people/
     PhD., Integrated Biology and Medicine, Duke-NUS medical school, Singapore<br>
     </div>
   </div>
-  </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
@@ -34,4 +34,4 @@ permalink: /people/
 </div>
 
 ### Alumni
-- Ms. Hannah Yeo – Internship student (July 2024 - May 2025) - Ms. Hannah Yeo – Internship student (July 2024 - May 2025)- Ms. Hannah Yeo – Internship student (July 2024 - May 2025)- Ms. Hannah Yeo – Internship student (July 2024 - May 2025)- Ms. Hannah Yeo – Internship student (July 2024 - May 2025)- Ms. Hannah Yeo – Internship student (July 2024 - May 2025)
+- Ms. Hannah Yeo – Internship student (July 2024 - May 2025) 

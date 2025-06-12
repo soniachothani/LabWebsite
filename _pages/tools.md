@@ -9,7 +9,7 @@ permalink: /tools/
     <h3>deltaTE</h3>
     <div class="image-hover-container">
       <a href="https://github.com/SGDDNB/translational_regulation">
-        <img src="{{ '/assets/images/delta-te.jpg' | relative_url }}" alt="deltaTE tool image">
+        <img src="{{ '/assets/images/delta-te.png' | relative_url }}" alt="deltaTE tool image">
         <div class="hover-text">
           deltaTE — Detection and classification of differential translation-efficiency genes.
         </div>

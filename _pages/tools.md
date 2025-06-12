@@ -11,6 +11,9 @@ permalink: /tools/
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
+    <br>
+    <br>
+    <br>
     <div class="tool-gallery">
       <div class="tool-block">
         <h3>deltaTE</h3>

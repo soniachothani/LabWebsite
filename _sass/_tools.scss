@@ -50,8 +50,8 @@
   opacity: 1;
 }
   .page__content {
-    max-width: 1000px;
-    margin: 3rem 0 0 2rem; // top right bottom left
+    max-width: none;
+    margin: 0 0 0 0; // top right bottom left
     padding-left: 0;
 
   @media (min-width: 768px) {

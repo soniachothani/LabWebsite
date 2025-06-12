@@ -32,4 +32,13 @@ permalink: /people/
 </div>
 
 ### Alumni
-- Ms. Hannah Yeo – Internship student (July 2024 - May 2025) 
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<img 
+    src="{{ '/assets/images/Hannah.jpg' | relative_url }}" 
+    alt="Ms. Hannah Yeo" 
+    style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
+<div>
+<strong>Ms. Hannah Yeo</strong> – Internship student (July 2024 - May 2025)
+</div>
+</div>
+

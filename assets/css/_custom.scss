@@ -1,3 +1,11 @@
+
+// Ensure the whole content area is moved down and left
+  .page__content {
+    max-width: none;
+    margin: 0 0 0 0; // top right bottom left
+    padding-left: 0;
+  }
+
 .publications-page {
   a.text-link {
     color: inherit;
@@ -8,10 +16,3 @@
     }
   }
 }
-
-// Ensure the whole content area is moved down and left
-  .page__content {
-    max-width: none;
-    margin: 0 0 0 0; // top right bottom left
-    padding-left: 0;
-  }

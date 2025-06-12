@@ -14,7 +14,7 @@ permalink: /people/
     <strong>Dr. Sonia Chothani</strong><br>
     Principal Investigator, RNA Translation Lab<br>
     <div style="font-size: 0.8em;">
-    <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a><br>
+    <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>    
     <a href="https://sg.linkedin.com/in/sonia-chothani-b192b515" target="_blank">Linkedin</a><br>
     Passionate about translating data-driven discoveries to improving the current landscape of diagnosis and treatments of human diseases. <br>
     </div>

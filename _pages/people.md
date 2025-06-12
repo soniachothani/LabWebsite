@@ -12,11 +12,11 @@ permalink: /people/
   <div>
     <strong>Dr. Sonia Chothani</strong><br>
     Principal Investigator, RNA Translation Lab<br>
-    <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
-    Passionate about translating data-driven discoveries to improving our diagnosis and treatments of human diseases. 
-    B.Tech. Biotechnology, Indian Institute of Technology Madras, India
-    M.S. Computational Biology, Carnegie Mellon University, Pittsburgh, USA
-    PhD., Integrated Biology and Medicine, Duke-NUS medical school, Singapore
+    <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a><br>
+    Passionate about translating data-driven discoveries to improving our diagnosis and treatments of human diseases. <br>
+    B.Tech. Biotechnology, Indian Institute of Technology Madras, India <br>
+    M.S. Computational Biology, Carnegie Mellon University, Pittsburgh, USA<br>
+    PhD., Integrated Biology and Medicine, Duke-NUS medical school, Singapore<br>
   </div>
 </div>
 

@@ -14,7 +14,7 @@
   // Ensure the whole content area is moved down and left
   .page__content {
     max-width: none;
-    margin: 3rem 0 0 2rem; // top right bottom left
+    margin: 0 0 0 0; // top right bottom left
     padding-left: 0;
   }
 }

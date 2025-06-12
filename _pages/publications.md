@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Publications"
-classes: publications-page wide
+classes: publications-page wide landing
 permalink: /publications/
 ---
+
 
 Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google          Scholar</a> for the full list of publications. 
 

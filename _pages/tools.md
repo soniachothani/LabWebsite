@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tools"
-classes: tools
+classes: tools wide
 permalink: /tools/
 ---
 <div class="tool-gallery">

@@ -9,8 +9,9 @@ html, body {
 
 /* Apply scroll snapping ONLY on landing page */
 body.landing {
-  height: 100%;
-  overflow: hidden; /* lock scroll only on landing */
+    min-height: 100vh;
+    overflow-y: auto;   /* ✅ allows vertical scroll */
+    overflow-x: hidden;
 
   .page-wrapper {
     height: 100vh;
@@ -37,8 +38,10 @@ body.landing {
     justify-content: center;
     overflow: hidden;
     text-align: center;
-    padding: 2rem;
-
+    padding: 2rem;  
+    height: 100vh;
+    scroll-snap-align: start;
+    
     img {
       position: absolute;
       top: 0;
@@ -91,8 +94,9 @@ body.landing {
   .full-page-layout {
     @extend .page-section;
     display: flex;
-    height: 100vh;
-
+    min-height: 100vh; /* changed from fixed */
+    scroll-snap-align: start;
+   
     @media (max-width: 768px) {
       flex-direction: column;
     }

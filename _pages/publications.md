@@ -11,7 +11,12 @@ permalink: /publications/
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">
-
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
         Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google          Scholar</a> for the full list of publications. 
         
         Selected publications here:

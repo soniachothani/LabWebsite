@@ -3,7 +3,6 @@ layout: single
 title: "People"
 permalink: /people/
 ---
-<div style="max-width: 1200px; margin: auto;">
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
@@ -36,6 +35,3 @@ permalink: /people/
 
 ### Alumni
 - Ms. Hannah Yeo – Internship student (July 2024 - May 2025)
-</div>
-
-

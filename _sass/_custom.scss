@@ -11,6 +11,18 @@
     }
   }
 
+.people-page {
+  a.text-link {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+
+    &:hover {
+      text-decoration: underline;
+    }
+}
   // Ensure the whole content area is moved down and left
   .page__content {
     max-width: none;

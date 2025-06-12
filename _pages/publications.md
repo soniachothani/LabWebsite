@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-classes: landing
+classes: landing wide
 permalink: /publications/
 ---
 

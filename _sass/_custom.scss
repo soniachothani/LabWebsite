@@ -6,6 +6,11 @@
     padding-left: 0;
   }
 
+body.publications-page .page__content {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
 
 .publications-page {
   a.text-link {

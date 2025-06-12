@@ -4,7 +4,8 @@ title: "People"
 permalink: /people/
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+  <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img 
     src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
     alt="Dr. Sonia Chothani" 
@@ -32,7 +33,7 @@ permalink: /people/
     <strong>Ms. Devika Menon</strong> – Research Officer (Computational Biologist)
   </div>
 </div>
-
+</div>
 
 ### Alumni
 - Ms. Hannah Yeo – Internship student (July 2024 - May 2025)

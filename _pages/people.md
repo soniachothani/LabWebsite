@@ -38,6 +38,7 @@ permalink: /people/
          <div style="font-size: 0.8em;">
          Bachelor of Science (Hons) Biological Sciences with a Second Major in Biomedical Structural Biology <br>
         Nanyang Technological University, July 2023 
+        </div>
       </div>
     </div>
     
@@ -54,6 +55,7 @@ permalink: /people/
     Nanyang Technological University, July 2025
     </div>
     </div>   
+    </div>
     </div>
 </section>
 

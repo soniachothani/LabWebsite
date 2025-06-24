@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Research"
-classes: wide landing
+classes:  landing
 permalink: /research/
 ---
 

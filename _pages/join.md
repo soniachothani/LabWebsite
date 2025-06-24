@@ -10,6 +10,9 @@ permalink: /join/
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">   
-    We are seeking a highly motivated Bioinformatics/Computational Biology Post-doctoral fellow / Senior Research officer to join the data-driven RNA translation biology team at the Genome Institute of Singapore (A*STAR). We have internship and PhD student openings as well. Please contact Sonia Chothani for more details.
+    We are seeking a highly motivated Bioinformatics/Computational Biology Post-doctoral fellow / Senior Research officer to join the data-driven RNA translation biology team at the Genome Institute of Singapore (A*STAR). We have internship and PhD student openings as well. <br> 
+    Please contact Sonia Chothani for more details.
+
+    
     </div>
 </section>

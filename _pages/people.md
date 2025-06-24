@@ -35,8 +35,9 @@ permalink: /people/
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
       <div>
         <strong>Ms. Devika Menon</strong> – Research Officer (Computational Biologist)
-        Bachelor of Science (Hons) Biological Sciences with a Second Major in Biomedical Structural Biology <br>
-        Nanyang Technological University July 2023 
+         <div style="font-size: 0.8em;">
+         Bachelor of Science (Hons) Biological Sciences with a Second Major in Biomedical Structural Biology <br>
+        Nanyang Technological University, July 2023 
       </div>
     </div>
     
@@ -48,6 +49,7 @@ permalink: /people/
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
     <div>
     <strong>Ms. Hannah Yeo</strong> – Internship student (July 2024 - May 2025)
+    <div style="font-size: 0.8em;">
     Bachelor of Science (Hons) Biological Sciences <br>
     Nanyang Technological University, July 2025
     </div>

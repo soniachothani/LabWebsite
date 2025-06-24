@@ -48,7 +48,8 @@ permalink: /people/
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
     <div>
     <strong>Ms. Hannah Yeo</strong> – Internship student (July 2024 - May 2025)
-    Bachelor of Science (Hons) Biological Sciences July 2025
+    Bachelor of Science (Hons) Biological Sciences <br>
+    Nanyang Technological University, July 2025
     </div>
     </div>   
     </div>

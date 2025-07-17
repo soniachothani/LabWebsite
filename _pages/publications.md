@@ -12,19 +12,16 @@ permalink: /publications/
     </div>
     <div class="main-content">
         <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
         <p>
         Visit <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> for the full list of publications. Selected publications here:
         </p>
+        <a href="https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1" class="text-link">
+                Chothani, S., Ruiz-Orera, J... TransCODE consortium, Mudge J., van Heesch, S., Prensner, J., Rackham, O. (2025). An expanded reference catalog of translated open reading frames for biomedical research
+        </a>
+        
         <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2279845" class="text-link">
                 Chothani, S., Ho, L., Schafer, S., & Rackham, O. (2023). Discovering microproteins: making the most of ribosome profiling data. RNA biology, 20(1), 943-954.
-        </a>
-              
+        </a>  
               
         <a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(22)00606-2?uuid=uuid%3Ad64a17c6-406a-4124-96ed-d6ebc23c1cee" class="text-link">
                 Chothani, S. P., Adami, E., Widjaja, A. A., Langley, S. R., Viswanathan, S., Pua, C. J., ... & Schafer, S. (2022). A high-resolution map of human RNA translation. Molecular cell, 82(15), 2885-2899.

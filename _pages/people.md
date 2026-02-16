@@ -20,6 +20,9 @@ permalink: /people/
         <br>
         <br>
         <br>
+          <br>
+        <br>
+        <br>
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
       <img 
         src="{{ '/assets/images/Sonia.webp' | relative_url }}" 

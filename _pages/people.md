@@ -11,7 +11,7 @@ permalink: /people/
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">   
-    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px; margin-top: 32px;">
+    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px; margin-top: 100px;">
       <img 
         src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
         alt="Dr. Sonia Chothani" 
@@ -83,7 +83,7 @@ permalink: /people/
     <strong>Ms. Hannah Yeo</strong> – Internship student (July 2024 - May 2025)
     <div style="font-size: 0.8em;">
     Bachelor of Science (Hons) Biological Sciences <br>
-    Nanyang Technological University, July 2025
+    Nanyang Technological University, July 2025 <br>
     [Now: Research Assistant at Duke-NUS medical school]
     </div>
     </div>   

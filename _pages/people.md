@@ -84,6 +84,7 @@ permalink: /people/
     <div style="font-size: 0.8em;">
     Bachelor of Science (Hons) Biological Sciences <br>
     Nanyang Technological University, July 2025
+    [Now: Research Assistant at Duke-NUS medical school]
     </div>
     </div>   
     </div>

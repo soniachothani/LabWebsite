@@ -10,13 +10,17 @@ permalink: /people/
       <img src="{{ '/assets/images/Thesis_cover.png' | relative_url }}" alt="Vertical Sidebar Image" />
     </div>
     <div class="main-content">   
+         <br>
+        <br>
+        <br>
+        <br>
+        <br>
+         <br>
+        <br>
+        <br>
+        <br>
+        <br>
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
       <img 
         src="{{ '/assets/images/Sonia.webp' | relative_url }}" 
         alt="Dr. Sonia Chothani" 

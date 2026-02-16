@@ -47,7 +47,7 @@ permalink: /people/
 
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
       <img 
-        src="{{ '/assets/images/Devika.jpg' | relative_url }}" 
+        src="{{ '/assets/images/Shruti.jfif' | relative_url }}" 
         alt="Dr. Shruti Eswar" 
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
       <div>
@@ -60,7 +60,7 @@ permalink: /people/
 
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
       <img 
-        src="{{ '/assets/images/Devika.jpg' | relative_url }}" 
+        src="{{ '/assets/images/chua_sherilyn.jpg' | relative_url }}" 
         alt="Ms. Sherilyn Chua" 
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
       <div>

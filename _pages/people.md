@@ -53,7 +53,8 @@ permalink: /people/
       <div>
         <strong>Dr. Shruti Eswar</strong> – Post-doctoral fellow
          <div style="font-size: 0.8em;">
-         Ph.D in Systems Biology and Physiology, University of Cincinnati College of Medicine, Aug 2025 <br> 
+         Ph.D in Systems Biology and Physiology <br>
+         University of Cincinnati College of Medicine, Aug 2025 <br> 
         </div>
       </div>
     </div>

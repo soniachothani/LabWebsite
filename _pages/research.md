@@ -17,6 +17,9 @@ permalink: /research/
         <br>
         <br>
         <br>
+        <br>
+        <br>
+        <br>
         We are a data-driven research group focusing on uncovering the missed layer of gene expression - RNA translation, beyond what the current genome annotation tells us. Our work focuses on discovering non-canonical proteins and hidden translation events that play critical roles in human disease. Using high-throughput data and computational approaches, we aim to rewrite the annotations of translation regions throughout the genome and using comparative translatomics identify novel biomarkers or targets in disease.
 
 

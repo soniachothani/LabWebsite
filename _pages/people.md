@@ -71,6 +71,8 @@ permalink: /people/
       </div>
     </div>
 
+    
+    <h2>Alumni</h2>
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
       <img 
         src="{{ '/assets/images/chua_sherilyn.jpg' | relative_url }}" 
@@ -85,7 +87,6 @@ permalink: /people/
       </div>
     </div>
     
-    <h2>Alumni</h2>
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img 
         src="{{ '/assets/images/Hannah.jpg' | relative_url }}" 

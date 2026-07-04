@@ -78,7 +78,7 @@ permalink: /people/
         B.E. (Hons) in Computer Engineering, Nanyang Technological University, Singapore
     </div>
     <br>
-    <strong>Ms. Hannah Yeo</strong> Internship student (Jul'24 - May'25)
+    <b>Ms. Hannah Yeo</b> (Internship student Jul'24 - May'25)
     <div style="font-size: 0.8em;">
     B.S. (Hons) Biological Sciences, Nanyang Technological University, Singapore <br>
     [Now: Research Assistant at Duke-NUS medical school]

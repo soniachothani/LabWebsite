@@ -73,32 +73,20 @@ permalink: /people/
 
     
     <h2>Alumni</h2>
-    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-      <img 
-        src="{{ '/assets/images/chua_sherilyn.jpg' | relative_url }}" 
-        alt="Ms. Sherilyn Chua" 
-        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
-      <div>
+    <div>
         <strong>Ms. Sherilyn Chua</strong> – Research internship student
          <div style="font-size: 0.8em;">
         Bachelor of Engineering (Hons) in Computer Engineering <br>
         Nanyang Technological University, July 2027 (Expected)
-        </div>
       </div>
     </div>
     
-    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img 
-        src="{{ '/assets/images/Hannah.jpg' | relative_url }}" 
-        alt="Ms. Hannah Yeo" 
-        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
     <div>
     <strong>Ms. Hannah Yeo</strong> – Internship student (July 2024 - May 2025)
     <div style="font-size: 0.8em;">
     Bachelor of Science (Hons) Biological Sciences <br>
     Nanyang Technological University, July 2025 <br>
     [Now: Research Assistant at Duke-NUS medical school]
-    </div>
     </div>   
     </div>
     </div>

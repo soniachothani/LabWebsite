@@ -73,13 +73,13 @@ permalink: /people/
 
     
     <h2>Alumni</h2>
-    <strong>Ms. Sherilyn Chua</strong> – Research internship student
+    <b>Ms. Sherilyn Chua</b> (Research internship student)
     <div style="font-size: 0.8em;">
         Bachelor of Engineering (Hons) in Computer Engineering <br>
         Nanyang Technological University, July 2027 (Expected)
     </div>
     <br>
-    <strong>Ms. Hannah Yeo</strong> – Internship student (July 2024 - May 2025)
+    <strong>Ms. Hannah Yeo</strong> Internship student (July 2024 - May 2025)
     <div style="font-size: 0.8em;">
     Bachelor of Science (Hons) Biological Sciences <br>
     Nanyang Technological University, July 2025 <br>

@@ -36,7 +36,7 @@ permalink: /people/
         <a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>    
         <a href="https://sg.linkedin.com/in/sonia-chothani-b192b515" target="_blank">Linkedin</a><br>
         Passionate about translating data-driven discoveries to improving the current landscape of diagnosis and treatments of human diseases. <br>
-        Ph.D, Integrated Biology and Medicine, Joint degree: Duke University and National University of Singapore, Duke-NUS medical school, 2021  <br>
+        Ph.D, Integrated Biology and Medicine, Joint degree: Duke University and National University of Singapore, Duke-NUS medical school, Singapore 2021  <br>
         M.S., Computational Biology, Carnegie Mellon University, Pittsburgh, USA 2014 <br>
         B.Tech., Biotechnology, Indian Institute of Technology Madras, India 2012
         </div>

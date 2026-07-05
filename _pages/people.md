@@ -84,5 +84,5 @@ permalink: /people/
     [Now: Research Assistant at Duke-NUS medical school]
     </div>
     
-
+</section>
 

@@ -74,12 +74,12 @@ permalink: /people/
     
     <h2>Alumni</h2>
     <div style="font-size: 0.8em;">
-    Ms. Sherilyn Chua (Internship student Jan'26 - May'26)
+    Ms. Sherilyn Chua (Internship student Jan'26 - May'26)<br>
         B.E. (Hons) in Computer Engineering, Nanyang Technological University, Singapore
     </div>
     <br>
     <div style="font-size: 0.8em;">
-    Ms. Hannah Yeo (Internship student Jul'24 - May'25)
+    Ms. Hannah Yeo (Internship student Jul'24 - May'25)<br>
     B.S. (Hons) Biological Sciences, Nanyang Technological University, Singapore <br>
     [Now: Research Assistant at Duke-NUS medical school]
     </div>

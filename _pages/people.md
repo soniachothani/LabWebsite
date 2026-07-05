@@ -61,7 +61,7 @@ permalink: /people/
       <img 
         src="{{ '/assets/images/Shruti.jfif' | relative_url }}" 
         alt="Dr. Shruti Eswar" 
-        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;   object-position: center 20%;" />
+        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;   object-position: center 40%;" />
       <div>    
         <strong>Dr. Shruti Eswar</strong> – Post-doctoral fellow
          <div style="font-size: 0.8em;">

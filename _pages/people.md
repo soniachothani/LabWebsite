@@ -52,7 +52,7 @@ permalink: /people/
         <strong>Ms. Devika Menon</strong> – Research Officer (Computational Biologist)
          <div style="font-size: 0.8em;">
          Bachelor of Science (Hons) Biological Sciences with a Second Major in Biomedical Structural Biology <br>
-        Nanyang Technological University, July 2023 
+        Nanyang Technological University, Singapore, July 2023 
         </div>
       </div>
     </div>
@@ -66,7 +66,7 @@ permalink: /people/
         <strong>Dr. Shruti Eswar</strong> – Post-doctoral fellow
          <div style="font-size: 0.8em;">
          Ph.D in Systems Biology and Physiology <br>
-         University of Cincinnati College of Medicine, Aug 2025 <br> 
+         University of Cincinnati College of Medicine, USA, Aug 2025 <br> 
         </div>
       </div>
     </div>

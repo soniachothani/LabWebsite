@@ -49,7 +49,7 @@ permalink: /people/
         alt="Ms. Devika Menon" 
         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" />
       <div>
-        <strong>Ms. Devika Menon</strong> – Research Officer (Computational Biologist)
+        <strong>Ms. Devika Menon</strong> – Research Officer
          <div style="font-size: 0.8em;">
          Bachelor of Science (Hons) Biological Sciences with a Second Major in Biomedical Structural Biology <br>
         Nanyang Technological University, Singapore, July 2023 

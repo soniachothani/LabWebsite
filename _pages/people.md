@@ -71,6 +71,20 @@ permalink: /people/
       </div>
     </div>
 
+    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+      <img 
+        src="{{ '/assets/images/WenLu.jpeg' | relative_url }}" 
+        alt="Ng Wen Lu" 
+        style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;   object-position: center 40%;" />
+      <div>    
+        <strong>Ms. Ng Wen Lu</strong> – Research internship student
+         <div style="font-size: 0.8em;">
+         Bachelor of Science, Data Science and AI <br>
+         College of Computing and Data Science, NTU <br> 
+        </div>
+      </div>
+    </div>
+
     
     <h2>Alumni</h2>
     <div style="font-size: 0.8em;">
